@@ -12,7 +12,7 @@ Aliya Tilebaldieva SCA-24B
 
 ## Presentation: 
 
-
+https://github.com/lady8miller/Library_Management_System/blob/master/LibraryManagementSystem.pptx
 
 ## 🏗️ Project Description
 
